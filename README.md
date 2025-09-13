@@ -1,0 +1,1 @@
+Project: Dynamic Optimal Control Model for Reducing Health Complexity in Co-infection of COVID-19 and Lung Cancer
